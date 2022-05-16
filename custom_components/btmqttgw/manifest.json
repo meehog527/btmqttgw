@@ -1,0 +1,9 @@
+{
+  "domain": "btmqttgw",
+  "name": "Bluetooth MQTT Gateway",
+  "config_flow": true,
+  "documentation": "https://github.com/meehog527/btmqttgw",
+  "requirements": ["aiohttp==3.6.1", "voluptuous==0.11.7"],
+  "dependencies": [],
+  "codeowners": ["@meehog527"]
+}
